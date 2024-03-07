@@ -1,0 +1,15 @@
+{
+  "name": "Test_repo",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "keywords": [],
+  "repository": "git@github.com:LaMeru/Test_repo.git",
+  "author": "Maiia Chigladze",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+        "path": "cz-conventional-changelog"
+ 	   }
+	}
+}
